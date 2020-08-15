@@ -31,7 +31,7 @@ github_username:  hakase-kenken
 # Build settings
 
   
-theme: minema
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 # Exclude from processing.
