@@ -32,7 +32,7 @@ github_username:  hakase-kenken
 # Build settings
 
   
-theme: jekyll-theme-cayman
+theme: minema
 plugins:
   - jekyll-feed
 # Exclude from processing.
