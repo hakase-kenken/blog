@@ -1,13 +1,5 @@
 ---
 layout: page
-title: 自己紹介
+title: お問い合わせ
 permalink: /about/
 ---
-
-
-ぼくの自己紹介をします。
-### ケンケン
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
