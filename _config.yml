@@ -18,7 +18,7 @@ footer-links:
   youtube:
   googleplus:
 disqus:
-google_analytics:
+google_analytics: UA-174002930-2
 
 url: https://hakase-kenken.github.io
 baseurl: "/blog"
