@@ -1,3 +1,9 @@
+---
+layout: post
+title: サラマンカ子供音楽塾に行ってきました。
+category: music
+---
+
 ## サラマンカ
 
 # 子供音楽塾に行っていきました！！![イベントのチラシ](https://mx2jfw.bn.files.1drv.com/y4mQPQ3FTtxlsbSCb0M0FJtAe5arjzPyxuz4TaaUMJIf252x-dyeK2Y6nYBSNoCexXFkmlltHF1nRo96-nPZ_cE7dPKbPVhwCwW-GIb087rI3OHr7hU0cZ2Tsa5gP9jBXvy4J3heE14dO6AvJgl1IAr0vk9t0vD_AnKXMsw3biyEYmLl3CIfFT0jvln4UweEySeeQo_q77bjhGUX6Du8vzuRw?width=850&height=510&cropmode=none)
