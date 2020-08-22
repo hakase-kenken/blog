@@ -6,7 +6,9 @@ category: music
 
 ## サラマンカ
 
-# 子供音楽塾に行っていきました！！![イベントのチラシ](https://mx2jfw.bn.files.1drv.com/y4mQPQ3FTtxlsbSCb0M0FJtAe5arjzPyxuz4TaaUMJIf252x-dyeK2Y6nYBSNoCexXFkmlltHF1nRo96-nPZ_cE7dPKbPVhwCwW-GIb087rI3OHr7hU0cZ2Tsa5gP9jBXvy4J3heE14dO6AvJgl1IAr0vk9t0vD_AnKXMsw3biyEYmLl3CIfFT0jvln4UweEySeeQo_q77bjhGUX6Du8vzuRw?width=850&height=510&cropmode=none)
+# 子供音楽塾に行っていきました！！!
+
+[イベントのチラシ](https://mx2jfw.bn.files.1drv.com/y4mQPQ3FTtxlsbSCb0M0FJtAe5arjzPyxuz4TaaUMJIf252x-dyeK2Y6nYBSNoCexXFkmlltHF1nRo96-nPZ_cE7dPKbPVhwCwW-GIb087rI3OHr7hU0cZ2Tsa5gP9jBXvy4J3heE14dO6AvJgl1IAr0vk9t0vD_AnKXMsw3biyEYmLl3CIfFT0jvln4UweEySeeQo_q77bjhGUX6Du8vzuRw?width=850&height=510&cropmode=none)
 
 
 おととい、(8/5),サラマンカの子供音楽塾に行っていきました！！  
@@ -18,7 +20,7 @@ category: music
 コロナ感染防止策として、少人数でだったけれど、とってもうれしかったです！！！！！  
 しかも、いつもはバイオリンを弾いているぼくが、  
 他の楽器に触れられたので、音楽の世界が広がった気がしました.GONNAの皆さん、ありがとうございます！!  
-
+***
 後日追記  
 
 レッスンを受けたあと二日間、ずーっと筋肉痛でした。。。  
